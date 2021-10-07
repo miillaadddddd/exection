@@ -1,0 +1,32 @@
+.container{
+    width:300px;
+    direction: rtl;
+    
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #ccc;
+}
+
+.contetnt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 1s;
+}
+
+.contetnt:hover{
+    background-color: rgb(28, 28, 31);
+    color: #fff;
+    font-size: 18px;
+}
+
+.contetnt h5{
+    font-size: 15px;
+    color: red;
+    background-color: #ccc;
+    padding: 4px;
+}

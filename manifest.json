@@ -1,0 +1,11 @@
+{
+    "manifest_version":2,
+    "name":"Nakhl",
+    "description":"for Fun",
+    "version":"1.0",
+    "browser_action":{
+        "default_icon":"Nakhll.png",
+        "default_popup":"popup.html"
+    },
+    "permissions":[]
+}
